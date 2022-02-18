@@ -1,0 +1,11 @@
+Modelos
+Processo de software -> Atividades relacionadas que levam à um produto de software
+sistemático,
+ordenar,
+métodos ágeis,
+produção de software,
+Software -> programa + documentação
+Funcionalidade, desempenho e confiável
+Especificação, desenvolvimento, validação, projeto e evolução
+Diminuir tempo
+
